@@ -33,7 +33,20 @@ Entre no diretorio e vamos alterar o genesis.json para incluir nele o contrato, 
       "balance": "0x0"
     },
       
+```
+
+É interessante também ajustar, a seu interesse a quantidade que sua moeda mãe terá. No caso, o valor de "balance" deve ser o valor considerando 18 casas decimais, um ótimo site para fazer a conversão é o [Rapidtable](https://www.rapidtables.com/convert/number/decimal-to-hex.html). No exemplo abaixo, o Hexadecimal 0xa56fa5b99019a5c8000000 representa 200 000 000 000000000000000000
+
+   
+   **JSON:**
+```
+    "5b350dea014ca43b0ef948cb24f6533a2416f80c": {
+      "balance": "0xa56fa5b99019a5c8000000"
+    }
       
-         
+```
+
+O contrato, pode ter qualquer endereço, e se quiser, se sua sub-rede já teve o deploy executado, você pode publicar o contrato issuer.sol e seguir a ativação como veremos a seguir
+
 
 ![Screenshots](https://www.crmcoins.com.br/images/xdc.png)
