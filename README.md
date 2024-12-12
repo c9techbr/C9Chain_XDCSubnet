@@ -19,7 +19,7 @@ With the issuer contract issued at genesis, you can operate pre-drawn contracts,
    
 Follow the steps until genesis.json is generated in "generated"
 
-Enter the directory and let's change genesis.json to include the contract in it, the address can be changed.
+Enter the directory and let's change genesis.json to include the contract in it, the address can be changed, but it needs to recompila XDC, as below.
 
 **JSON:**
 ```
