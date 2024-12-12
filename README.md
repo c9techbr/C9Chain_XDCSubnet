@@ -141,6 +141,7 @@ If you have any questions, please feel free to contact us via the XDC forum or b
 
 [C9 Tech](www.c9tech.com.br)
 
+[C9 Tech Crypto card](https://www.youtube.com/shorts/8iKBrYTJhys)
 [C9 Tech Crypto card](https://www.youtube.com/shorts/n8Q_0ocLokM)
 
 Below is a commemorative image of the XDC/EVM card, the cheapest HSM on the market.
